@@ -1,5 +1,5 @@
 /** Class that determines whether or not a year is a leap year.
- *  @author RK
+ *  @author RK Java
  */
 public class LeapYear {
 
